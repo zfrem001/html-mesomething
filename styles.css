@@ -1,6 +1,6 @@
 body, html{
     margin:0px;
-    padding:0px;
+    padding:40px;
 }
 
 a{color:orchid}
@@ -9,5 +9,12 @@ header{
     background-color: gold ;
     color: white;
     padding: 20px;
-    overflow: hidden; 
+}
+
+article{
+    background-color: blue ;
+}
+footer{
+    font: bold ;
+    background-color:  grey ;
 }
